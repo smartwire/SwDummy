@@ -9,7 +9,6 @@
 			parent::__construct($InstanceID);
 			
 			IPS_LogMessage("SwHelloWorld", "SwHelloWorld->__construct() invoked with InstanceID ". $InstanceID);
-			var_dump($this);
 		}
 		
 		public function ApplyChanges()
@@ -18,7 +17,6 @@
 			parent::ApplyChanges();
 			
 			IPS_LogMessage("SwHelloWorld", "SwHelloWorld->ApplyChanges() invoked");
-			var_dump($this);
 		}
 		
 		public function HelloWorld()
