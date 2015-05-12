@@ -1,11 +1,11 @@
 {
 	"id": "{3FF4D61C-DF48-456F-8167-E40AAB3CD1F6}",
-	"name": "SwDummy",
-	"type": 2,
+	"name": "SwHelloWorld",
+	"type": 3,
 	"vendor": "SmartWire",
 	"aliases": [],
 	"parentRequirements": [],
 	"childRequirements": [],
 	"implemented": [],
-	"prefix": "SwDummy"
+	"prefix": "SW_Dummy_"
 }

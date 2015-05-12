@@ -1,9 +1,9 @@
 {
 	"id": "{F3A3A6D8-C14A-40C2-A1F1-76A0C7A1B552}",
 	"author": "SmartWire AG",
-	"name": "test modules",
+	"name": "SmartWire test library",
 	"url": "www.smartwire.ch",
-	"version": "0.1.2",
-	"build": 3,
+	"version": "0.1.3",
+	"build": 4,
 	"date": 0
 }
