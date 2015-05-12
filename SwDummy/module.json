@@ -4,5 +4,8 @@
 	"type": 2,
 	"vendor": "SmartWire",
 	"aliases": [],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
 	"prefix": "SwDummy"
 }
