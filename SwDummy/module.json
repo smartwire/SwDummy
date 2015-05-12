@@ -3,9 +3,9 @@
 	"name": "SwHelloWorld",
 	"type": 3,
 	"vendor": "SmartWire",
-	"aliases": [],
+	"aliases": ["SmartWire HelloWorld"],
 	"parentRequirements": [],
 	"childRequirements": [],
 	"implemented": [],
-	"prefix": "SW_Dummy_"
+	"prefix": "SW_"
 }

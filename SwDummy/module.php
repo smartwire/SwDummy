@@ -8,7 +8,7 @@
 			//Never delete this line!
 			parent::__construct($InstanceID);
 			
-			IPS_LogMessage("SwHelloWorld->__construct() invoked with InstanceID", $InstanceID);
+			IPS_LogMessage("SwHelloWorld", "SwHelloWorld->__construct() invoked with InstanceID ". $InstanceID);
 			var_dump($this);
 		}
 		
@@ -17,13 +17,13 @@
 			//Never delete this line!
 			parent::ApplyChanges();
 			
-			IPS_LogMessage("SwHelloWorld->ApplyChanges() invoked");
+			IPS_LogMessage("SwHelloWorld", "SwHelloWorld->ApplyChanges() invoked");
 			var_dump($this);
 		}
 		
-		public function HelloWorld($message)
+		public function HelloWorld()
 		{
-			IPS_LogMessage("SwHelloWorld->HelloWorld() invoked with message ", $message);
+			IPS_LogMessage("SwHelloWorld", "SwHelloWorld->HelloWorld() invoked");
 		}
 		
 
