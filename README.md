@@ -1,5 +1,4 @@
-Test PHP Modules for IP-Symcon
+SmartWire Test PHP Modules for IP-Symcon
 ================
 
-* IOTest
-* IOSplitter
+Derived from https://github.com/smartwire/SymconTest
